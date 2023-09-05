@@ -23,3 +23,4 @@ while True:
         print("Nie ma błedu")
     finally:
         print("Zawsze")
+# 14:55 uwaga słyszymy wszystko;)
