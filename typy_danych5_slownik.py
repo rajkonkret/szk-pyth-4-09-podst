@@ -41,3 +41,4 @@ a = int(input("Podaj pierwszą liczbę"))
 b = int(input("Podaj drugą liczbę"))
 # print(int(a) + int(b))
 print(a + b)
+# dodaałem
