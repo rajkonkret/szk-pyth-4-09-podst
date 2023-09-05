@@ -11,3 +11,4 @@ match lang.lower().replace(" ", ""):
     case _:  # odpowiednik else, default
         print("Nie znam takiego języka")
 print(lista)
+# 11:55
