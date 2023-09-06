@@ -11,4 +11,4 @@ fun.powitanie()
 pakiet.powitanie()
 fun.info()
 pk.info()
-# 14:45
+# 14:50
