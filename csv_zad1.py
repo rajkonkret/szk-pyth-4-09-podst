@@ -20,7 +20,7 @@ filename = 'records.csv'
 
 with open(filename, 'w', newline='') as csv_f:
     # csvwriter = csv.writer(csv_f)
-    csvwriter = csv.DictWriter(csv_f, fieldnames=fields)
+    csvwriter = csv.DictWriter(csv_f, fieldnames=fields, delimiter=";")
     # csvwriter.writerow(row)  - zapis pojedynczego wiersza
     csvwriter.writeheader()  # zapisuje nazwy kolumn
     csvwriter.writerows(dict_x)  # zapisuje wiersze z naszego słownika
