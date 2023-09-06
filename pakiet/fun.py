@@ -1,0 +1,1 @@
+print("Jestem fun z pakiet")
