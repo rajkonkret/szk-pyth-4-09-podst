@@ -21,7 +21,7 @@ class Ptak(ABC):
 
 class Orzel(Ptak):
     def poluj(self):
-        print("Tu", self.gatunek, "Ropoczynam polowanie")
+        print("Tu", self.gatunek, "Rozpoczynam polowanie")
 
     def wydaj_odglos(self):
         print("piiiiiiii")
