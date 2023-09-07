@@ -40,3 +40,4 @@ finally:
 # POST, GET, PUT, DELETE
 # HEAD - to samo co GET ale pobiera tylko  nagłowek
 # 13:35
+# 14:15
